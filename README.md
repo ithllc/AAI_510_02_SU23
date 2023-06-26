@@ -11,8 +11,8 @@ Building a machine learning classification model will be the best approach becau
 * [Bin](Bin)
 * [Frank](Frank)
 * [KWABENA](KWABENA)
-* [Final Report](Final Report)
-* [Power Point](Power Point)
+* [Final Report](Final_Report)
+* [Power Point](Power_Point)
 
 
 Data
@@ -21,4 +21,20 @@ Data
 
 Bin
 -----------------------------
-[This](Bin) folder contains all the text documents for the sensor data and reports. These documents provide detailed descriptions of the sensor data and explain the methodology used in the project.
+[This](Bin) folder contains Bin's Notebook.
+
+Frank
+-----------------------------
+[This](Frank) folder contains Frank's Notebook.
+
+KWABENA
+-----------------------------
+[This](KWABENA) folder contains Kwabena's Notebook.
+
+Final Report
+-----------------------------
+[This](Final_Report) folder contains Team1's Final Report jupyter Notebook.
+
+Power Point
+-----------------------------
+[This](Power_Point) folder contains Team1's Business Presentation Slides.

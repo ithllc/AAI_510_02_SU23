@@ -17,7 +17,7 @@ Building a machine learning classification model will be the best approach becau
 
 Data
 -----------------------------
-[This](Data) folder contains the original csv files including the Thera Bank project.
+[This](Data) folder contains the original csv files with the Thera Bank project and tree.txt for showing tree stratue. tree.txt will provide some Model Transparency.
 
 Bin
 -----------------------------
@@ -25,7 +25,7 @@ Bin
 
 Frank
 -----------------------------
-[This](Frank) folder contains Frank's Notebook.
+[This](Frank) folder contains Frank's Notebook and Data Zip file.
 
 KWABENA
 -----------------------------
@@ -33,7 +33,7 @@ KWABENA
 
 Final Report
 -----------------------------
-[This](Final_Report) folder contains Team1's Final Report jupyter Notebook.
+[This](Final_Report) folder contains Team1's Final Report jupyter Notebook and Team Project Status Update.
 
 Power Point
 -----------------------------
